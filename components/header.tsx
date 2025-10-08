@@ -25,7 +25,7 @@ export function Header() {
         <div className="flex items-center gap-2">
           <Users className="h-8 w-8 text-primary" />
           <Link href="/" className="text-xl font-bold font-serif hover:text-primary transition-colors">
-            GroupSave
+            Splitzy
           </Link>
         </div>
 
